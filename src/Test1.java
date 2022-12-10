@@ -1,8 +1,8 @@
 public class Test1 {
 
-    public static void main(String args) {
-        fsdhgaawfdudjha<
+    public static void main(String []args) {
 
+// fixed
 
 
     }
